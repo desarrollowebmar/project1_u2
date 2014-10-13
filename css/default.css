@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #000000;
+}
+
+.menu {
+	background-color: #EC7E3A;
+	width: 150px;
+	height: 400px;
+}
+
+.menu h1{
+	text-align:center;
+	color: #FFE3D2;
+}
+
+.boton {
+	background-color: #FF9C5E;
+	width: 200px;
+	height: 50px;
+	margin: 10px;
+}
+
+.boton:hover{
+	margin-left: 20px;
+}
+
+.boton a {
+	text-align:center;
+	display: block;
+	width: 200px;
+	height: 50px;
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFE3D2;
+	text-decoration: none;
+}
